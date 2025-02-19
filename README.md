@@ -8,7 +8,6 @@ Este projeto tem como objetivo demonstrar a criação e gerenciamento de usuári
 
 ## Arquivos Necessários
 - [EquipeTIABCEmpresa.xlsx](attachment:75a7255a-fb70-4e09-823b-58e417f3c7fd:EquipeTIABCEmpresa.xlsx)
-- [force_mfa_policy.txt](attachment:f0d3685e-0b7e-4a38-964e-f4ebeb88952d:force_mfa_policy.txt)
 - [usuarios2.csv](attachment:ad198346-11f4-4c5d-a172-f85a0605238a:usuarios2.csv)
 - [aws-iam-cria-usuario.sh](https://tcb-bootcamps.s3.amazonaws.com/bootcamp-aws/pt/module2/aws-iam-cria-usuario.sh)
 
